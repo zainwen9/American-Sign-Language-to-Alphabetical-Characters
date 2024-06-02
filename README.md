@@ -32,11 +32,6 @@ pip install -pillow
 Command: streamlit run app.py
 This command will make a localhost on your system using streamlit a hosting library and package for python.
 
-## Demo Video
-
-<p align="center">
-  <iframe width="560" height="315" src="https://www.instagram.com/reel/C7t761PNjom/?igsh=YTg5d3R2Y2t2dGky" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
 ## Features
 Our model was able to predict the 44 characters in the ASL with a prediction accuracy >95%.
